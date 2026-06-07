@@ -53,7 +53,7 @@ Reddit, 3rd party forums, etc.
 50 characters
 
 **Reasoning:** 
-Terraria wiki pages are structured reference content where useful information spans multiple sentences — a boss entry includes its name, spawn condition, and drops in close proximity, and splitting those apart would hurt retrieval. 500 characters keeps enough context together for the embedding to capture meaning without diluting it across too wide a window. Paragraph-based chunking was ruled out because wiki paragraphs vary wildly in length. 50-character overlap prevents key facts from being lost at chunk boundaries, which matters for pages like Guide:Class_setups where item names and their context sit near section edges.
+Terraria wiki pages are structured reference content where useful information spans multiple sentences. A boss entry includes its name, spawn condition, and drops in close proximity, and splitting those apart would hurt retrieval. 500 characters keeps enough context together for the embedding to capture meaning without diluting it across too wide a window. Paragraph-based chunking was ruled out because wiki paragraphs vary wildly in length. 50-character overlap prevents key facts from being lost at chunk boundaries, which matters for pages like Guide:Class_setups where item names and their context sit near section edges.
 
 ---
 
