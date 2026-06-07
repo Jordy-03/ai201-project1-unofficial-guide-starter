@@ -28,7 +28,7 @@ Reddit, 3rd party forums, etc.
 |---|--------|-------------|-----------------|
 | 1 | Terraria Wiki | Overview of all bosses, spawn conditions, and loot | https://terraria.wiki.gg/wiki/Bosses |
 | 2 | Terraria Wiki | Getting started guide for new players | https://terraria.wiki.gg/wiki/Guide:Getting_started |
-| 3 | Terraria Wiki | Full game walkthrough covering early to mid-game progression | https://terraria.wiki.gg/wiki/Guide:Walkthrough |
+| 3 | Terraria Wiki | Overview of Hardmode mechanics, new enemies, and progression after Wall of Flesh | https://terraria.wiki.gg/wiki/Hardmode |
 | 4 | Terraria Wiki | Recommended weapons, armor, and accessories by class and game stage | https://terraria.wiki.gg/wiki/Guide:Class_setups |
 | 5 | Terraria Wiki | Overview of all biomes, their characteristics, and locations | https://terraria.wiki.gg/wiki/Biomes |
 | 6 | Terraria Wiki | All in-game events, their triggers, and unique enemy/item drops | https://terraria.wiki.gg/wiki/Events |
@@ -99,10 +99,9 @@ all-MiniLM-L6-v2 is fast and runs locally with no cost, but has a 256-token cont
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1. Incorrect or outdated information.
+1. **Outdated or version-specific information.** Terraria has received major updates (e.g., Journey's End) that changed item stats, crafting recipes, and boss behavior. Wiki pages may mix pre- and post-update content without clear labeling, so the RAG system could return accurate-sounding but outdated answers. This is hard to detect automatically — the embedding model has no concept of game versions.
 
-2. Chunks that may omit key information. E.g. explaining what item to get but
-forget to mention it's only possible in post-hardmode.
+2. **Chunks that split progression-gated context.** A chunk might name an item or accessory without including the surrounding sentence that says it's only available post-Hardmode or after a specific boss. If that context lands in the adjacent chunk, retrieval may return the item name without the prerequisite — leading the model to give incomplete or misleading advice. The 50-character overlap reduces this risk but doesn't eliminate it.
 
 ---
 

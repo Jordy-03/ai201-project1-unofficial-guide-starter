@@ -1,0 +1,65 @@
+Introduction
+Terraria world seeds allow for the near perfect recreation of world generation given the same seed and other relevant in-game settings. This means that if you get some funky world generation and want to share with friends or would simply like to restart your world anew for a different adventure, you can now do so!
+
+This guide will be a list of seeds that are abnormal in one way or another, whether it be interesting world generation, a lucky spawn location, easily accessible resources, a rare glitch, etc.
+
+Terraria updated seeds (Still working)
+The world seeds in the following section(s) are seeds that still work (generate the special features for which they are being highlighted) and are recreatable in current versions of Terraria.
+
+Infinite chest glitch money farm
+This world generates a glitched Living Wood Chest with a missing wood tile underneath, so when you try to destroy while it still has items inside, it drops four chests and the original stays in place. Farm them and sell them to any shop NPC for an easy infinite amount of money!
+World size: Small
+World type: Normal or Expert
+World evil: Corruption or Crimson
+World seed: demizegg0429259
+Found by: demize
+
+Great two player world seed
+This world can generate with two surface level Enchanted Sword Shrines (easy Arkhalis?), two Starfurys, two Flying Carpets, two Lucky Horseshoes, plus a crazy Dungeon and Ocean biome cliff!
+World size: Large
+World type: Normal
+World evil: Corruption
+World seed: 1425541226
+Found by: Carl the Intern
+
+Dungeon destroyed by ocean seeds
+Dungeon tower mostly destroyed by ocean.
+World size: Small
+World type: Expert
+World evil: Corruption or Crimson
+World seed: 490456395
+Found by: Retro
+
+Patched seeds (No longer working)
+The world seeds in the following section(s) are seeds that worked in previous versions of the game but have since been patched and no longer work in current versions of Terraria.
+
+Glitched Vampire Knives and Scourge of the Corruptor
+Very rare glitch that lets you easily get the locked biome chest weapons before hardmode / Plantera and without a key as it's simply in a normal chest in the Dungeon. This was patched in an update and is no longer possible on current PC versions, but still possible randomly on mobile and console versions.
+World size: Small
+World type: Normal or Expert
+World evil: Corruption
+World seed: 1736738089
+Found by: demize
+
+Glitched Rainbow Gun
+Very rare glitch that lets you easily get the Rainbow Gun before hardmode / Plantera and without a Hallowed Key or any key as it's simply in a wood Dungeon chest!
+World size: Small
+World type: Normal or Expert
+World evil: Corruption or Crimson
+World seed: 1423781313
+Found by: demize
+
+Glitched Staff of the Frost Hydra
+Very rare glitch that lets you easily get the Staff of the Frost Hydra and Piranha Gun before hardmode / Plantera and without a Frozen / Jungle Key or any key as it's simply in a wood Dungeon chest!
+World size: Small
+World type: Normal or Expert
+World evil: Corruption or Crimson
+World seed: 964250155
+Found by: Glandik
+
+Glitched Piranha Gun
+World size: Small
+World type: Normal or Expert
+World evil: Corruption or Crimson
+World seed: 1193957894
+Found by: demize
