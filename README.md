@@ -103,7 +103,7 @@ Each retrieved chunk is labeled with its source in the context block (e.g., `[So
 
 **How source attribution is surfaced in the response:**
 
-Source attribution is programmatic — after generation, unique source names are extracted directly from the ChromaDB metadata of the retrieved chunks and appended to the response. This guarantees attribution regardless of what the LLM outputs, rather than relying on the model to cite sources itself.
+Source attribution is programmatic. After generation, unique source names are extracted directly from the ChromaDB metadata of the retrieved chunks and appended to the response. This guarantees attribution regardless of what the LLM outputs, rather than relying on the model to cite sources itself.
 
 ---
 
